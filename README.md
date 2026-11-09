@@ -33,7 +33,7 @@ Set these environment variables in the hosting provider and redeploy:
 - `NEXT_PUBLIC_SUPABASE_URL`: Supabase project URL.
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`: publishable/anon key.
 - `SUPABASE_SERVICE_ROLE_KEY`: private server environment only; never use a `NEXT_PUBLIC_` prefix.
-- `NEXT_PUBLIC_WHATSAPP_NUMBER`: international digits only, default `254705895736`.
+- `NEXT_PUBLIC_WHATSAPP_NUMBER`: international digits only, default `254788668719`.
 
 Run `npm run build` before deployment. Apply the database migration, create and allow-list the initial administrator, sign in at `/admin/login`, add accurate property details and photos, then publish. Review `/privacy` and replace the draft with the company's approved privacy and data-retention notice before collecting real enquiries. Configure hosting-level firewall or edge rate limiting for `/api/enquiries`; the database throttle is per phone number and does not replace IP or bot protection. Confirm the contact, WhatsApp and Instagram links and production domain.
 
@@ -42,7 +42,7 @@ Run `npm run build` before deployment. Apply the database migration, create and 
 - Photo uploads allow JPEG, PNG, WebP or AVIF up to 10 MB. The storage bucket is public for published listing images; writes require the admin role.
 - A listing cannot be published while available or under offer until it has a photo and a meaningful description, title, location and non-zero price.
 - Property detail routes and sitemap entries are generated from published, available or under-offer records.
-- Contact details supplied for this site: +254 705 895736, WhatsApp +254 705 895736, Instagram [@jeshurun_dealers_](https://www.instagram.com/jeshurun_dealers_/).
+- Contact details supplied for this site: +254 788 668719, WhatsApp +254 788 668719, Instagram [@jeshurun_dealers_](https://www.instagram.com/jeshurun_dealers_/).
 
 ## Launch checklist
 
