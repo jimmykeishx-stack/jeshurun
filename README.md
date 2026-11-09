@@ -1,6 +1,6 @@
-# Jeshurun Dealers property platform
+# Welcome Homes Agency property platform
 
-Company-controlled real-estate catalogue for Jeshurun Dealers. Public visitors can browse published inventory, filter and sort listings, open a photo gallery, and submit enquiries. Only explicitly allow-listed administrators can create, edit, publish, unpublish, or delete listings and manage photos and enquiries.
+Company-controlled real-estate catalogue for Welcome Homes Agency. Public visitors can browse published inventory, filter and sort listings, open a photo gallery, and submit enquiries. Only explicitly allow-listed administrators can create, edit, publish, unpublish, or delete listings and manage photos and enquiries.
 
 ## Local setup
 
